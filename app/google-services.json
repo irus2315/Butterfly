@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330554086807",
+    "project_id": "butterfly-90b22",
+    "storage_bucket": "butterfly-90b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330554086807:android:759fd2a4df5f7dfb9420d2",
+        "android_client_info": {
+          "package_name": "kr.twothumb.butterfly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1NLwvy9niOVVD66H5PDAlvtMqadlClQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
